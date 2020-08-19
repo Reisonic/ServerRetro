@@ -1,14 +1,16 @@
-{
-"GroupId": 2,
-"id":1,
-"title": "Скидка -25%",
-"sub_title":"До 12:00",
-"link_url_photo":"http://mango-nch.ru/image/cache/catalog/karysel13/goergia-1140x380.jpg"
-},
-{
-"GroupId": 2,
-"id":2,
-"title": "Подарок",
-"sub_title":"При заказе от 2000",
-"link_url_photo":"http://mango-nch.ru/image/cache/catalog/karysel/risunok555-1140x380.jpg"
-}
+"posts":[
+  {
+    "GroupId": 2,
+    "id":1,
+    "title": "Скидка -25%",
+    "sub_title":"До 12:00",
+    "link_url_photo":"http://mango-nch.ru/image/cache/catalog/karysel13/goergia-1140x380.jpg"
+  },
+  {
+    "GroupId": 2,
+    "id":2,
+    "title": "Подарок",
+    "sub_title":"При заказе от 2000",
+    "link_url_photo":"http://mango-nch.ru/image/cache/catalog/karysel/risunok555-1140x380.jpg"
+  }
+]
